@@ -9,7 +9,7 @@
   "transform": [
       {"filter": "datum.Active > 0"},
      {"filter": "datum.Deaths > 0"}
-      ]
+      ],
 
  "mark": "circle",
  
@@ -17,13 +17,13 @@
  "x": {
       "field": "Confirmed",
       "type": "quantitative",
-      "title": "Confirmed Cases"
+      "title": "Confirmed Cases",
        "axis": {"tickCount": 7},
        "scale": {"type": "log", "domain": [1, 10000000]}
        },
  "y": {
       "field": "Deaths",
-      "type": "quantitative"
+      "type": "quantitative",
       "axis": {"tickCount": 6},
       "scale": {"type": "log", "domain": [1, 1000000]}
       },
