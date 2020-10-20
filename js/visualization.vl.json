@@ -5,7 +5,7 @@
    "height": 400,
    "title": "COVID-19 Cases per Country (13 Oct 2020)",
  "data": {
-     "url": "https://raw.githubusercontent.com/PatricMangi/week10HM/main/data/covid_10_10_2020.csv"
+     "url": "https://raw.githubusercontent.com/PatricMangi/week10HM/main/data/COVID_19_10_Oct_2020.csv"
          },
  "transform": [
      {"filter": "datum.Active > 0"},
