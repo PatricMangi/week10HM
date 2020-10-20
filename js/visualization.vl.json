@@ -22,4 +22,11 @@
  "type": "nominal"
  },
  "size": {
- "field": "Popula
+ "field": "Popula"
+  "size": {
+ "field": "Population",
+ "type": "quantitative"
+ }
+ }
+}
+
