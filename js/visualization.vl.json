@@ -21,8 +21,7 @@
  "field": "Continent",
  "type": "nominal"
  },
- "size": {
- "field": "Popula"
+  
   "size": {
  "field": "Population",
  "type": "quantitative"
